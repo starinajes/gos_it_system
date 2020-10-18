@@ -1,7 +1,7 @@
 # gos_it_system
 Проект от команды "Государственная IT система управления" для хакатона "цифровой прорыв"
 
-Пощупать можно тут: [дизайн-проект интерфейса](https://xd.adobe.com/view/9d85c7d1-a7ce-4ade-5bdd-af733f1e5af6-ebb4/?fullscreen)
+Пощупать можно тут: [интерактивный дизайн-проект интерфейса](https://xd.adobe.com/view/9d85c7d1-a7ce-4ade-5bdd-af733f1e5af6-ebb4/?fullscreen)
 
 ![Главный экран](https://github.com/starinajes/gos_it_system/blob/main/slide_main.jpg)
 ![Модальное окно 1 шаг](https://github.com/starinajes/gos_it_system/blob/main/slide_modal_1_step.jpg)
