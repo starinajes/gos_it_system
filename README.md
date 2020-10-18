@@ -1,10 +1,10 @@
 # gos_it_system
 Проект от команды "Государственная IT система управления" для хакатона "цифровой прорыв"
 
-![Главный экран](https://github.com/starinajes/gos_it_system/raw/master/slide_main.jpg)
-![Модальное окно 1 шаг](https://github.com/starinajes/gos_it_system/master/slide_modal_1_step.jpg)
-![Модальное окно результат](https://github.com/starinajes/gos_it_system/master/slide_modal_result.jpg)
-![Главный экран - результат](https://github.com/starinajes/gos_it_system/master/slide_main_result.jpg)
+![Главный экран](https://github.com/starinajes/gos_it_system/slide_main.jpg)
+![Модальное окно 1 шаг](https://github.com/starinajes/gos_it_system/slide_modal_1_step.jpg)
+![Модальное окно результат](https://github.com/starinajes/gos_it_system/slide_modal_result.jpg)
+![Главный экран - результат](https://github.com/starinajes/gos_it_system/slide_main_result.jpg)
 
 ## Installation
 - Clone the repo and `cd` into it
